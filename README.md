@@ -26,7 +26,7 @@ Also in the toolbox: C#, TypeScript, JavaScript, Python; IntelliJ IDEA, VS Code,
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xingtuan416&bg_color=1D2330&color=E8A06A&line=A5C8B8&point=F7F0E5&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xingtuan416&theme=gruvbox" alt="Contribution summary" />
 </p>
 
 - **[BetterPrint](https://github.com/xingtuan416/BetterPrint)** · TypeScript · Electron · React
