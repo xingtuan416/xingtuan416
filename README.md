@@ -1,14 +1,12 @@
-### xingtuan
+### Projects
 
-I build tools for everyday workflows on Android and Windows. Java and Kotlin are my strongest languages.
-
-<img src="https://count.getloli.com/@xingtuan416?name=xingtuan416&amp;darkmode=auto" alt="Pixel-art visitor counter" height="72" />
+- [BetterPrint](https://github.com/xingtuan416/BetterPrint) · Manual double-sided printing and booklet layout
+- [MusicboxMC](https://github.com/xingtuan416/MusicboxMC) · Convert MIDI into Minecraft note-block builds
+- [HackintoshDisplayFix](https://github.com/xingtuan416/HackintoshDisplayFix) · Fix external display issues on macOS
 
 ### Skills
 
 [![Java, Kotlin, C#, TypeScript, JavaScript, Python, Android Studio, Windows, IntelliJ IDEA, VS Code, Git, Photoshop, Premiere Pro](https://skillicons.dev/icons?i=java,kotlin,cs,ts,js,py,androidstudio,windows,idea,vscode,git,ps,pr&theme=dark&perline=13)](https://skillicons.dev)
-
-**Projects** · [BetterPrint](https://github.com/xingtuan416/BetterPrint) · [MusicboxMC](https://github.com/xingtuan416/MusicboxMC) · [HackintoshDisplayFix](https://github.com/xingtuan416/HackintoshDisplayFix)
 
 ### Contributions
 
